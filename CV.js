@@ -3,7 +3,7 @@ document.getElementById('botondip').onclick= function() {
 }
 
 document.getElementById('botoning').onclick= function() {
-    document.getElementById("infoing").innerHTML= "Ingeniero Electromecánico. Universidad Tecnológica Nacional, Unidad Académica Reconquista. 2004 - 2009, Orientacion: mantenimiento industrial, promedio final 8,75";
+    document.getElementById("infoing").innerHTML= "Ingeniero Electromecánico. Universidad Tecnológica Nacional, Unidad Académica Reconquista. 2004 - 2009, Orientación: mantenimiento industrial, promedio final 8,75";
 }
 
 document.getElementById('botontec').onclick= function() {
